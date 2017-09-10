@@ -20,7 +20,7 @@ hello branch1
 
 
 cherry
-
+pick
 
 
 
